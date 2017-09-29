@@ -1,3 +1,4 @@
+#Get acm_data.txt as input and you will be able to generate it's csv version.
 
 import csv
 from itertools import groupby
